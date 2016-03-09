@@ -1,0 +1,17 @@
+{
+    "name": "download.liu-xiao-guo",
+    "description": "description of download",
+    "architecture": "all",
+    "title": "download",
+    "hooks": {
+        "download": {
+            "apparmor": "download.apparmor",
+            "desktop":  "download.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-14.10"
+}
+
+

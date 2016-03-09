@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=download
+Exec=qmlscene $@ Main.qml
+Icon=download.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
